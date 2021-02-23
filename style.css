@@ -75,6 +75,12 @@ form {
    text-align:center;
 }
 
+.no-bullet {
+   ul.ba {
+      list-style-type: none;
+   }
+}
+
 @media print {
    .screen_only {
       display: none;
