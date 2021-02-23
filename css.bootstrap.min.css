@@ -1,0 +1,94 @@
+body {
+   background-color:#0ABAB5;
+}
+
+table td {
+   color:white;
+   font-family:courier new;
+}
+
+table th {
+   color:white;
+   font-family:courier new;
+}
+
+ul {
+   list-style-position:inside;
+}
+
+li {
+   color:white;
+   font-family:courier new;
+}
+
+h3 {
+   text-transform:uppercase;
+   text-decoration:underline;
+   font-family:courier new;
+   color:white;
+   text-align:center;
+   
+}
+
+h1 {
+   font-family:courier new;
+   text-transform:uppercase;
+   text-align:center;
+   color:white;
+}
+
+p {
+   font-family:courier new;
+   text-align:center;
+   color:white;
+}
+
+a {
+   font-family:courier new;
+   color:white;
+   text-align:center;
+}
+
+img {
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+iframe {
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+form {
+   text-align:center;
+   font-family:courier new;
+}
+    
+.center-table {
+   margin-left:auto;
+   margin-right:auto;
+}
+      
+.center-list {
+   text-align:center;
+}
+
+@media print {
+   .screen_only {
+      display: none;
+   }
+}
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
