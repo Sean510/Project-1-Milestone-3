@@ -21,6 +21,11 @@ li {
    font-family:courier new;
 }
 
+nav li {
+   display: inline;
+   padding-right: 30px;
+}
+
 h3 {
    text-transform:uppercase;
    text-decoration:underline;
