@@ -75,12 +75,6 @@ form {
    text-align:center;
 }
 
-.no-bullet {
-   ul{
-      list-style-type: none;
-   }
-}
-
 @media print {
    .screen_only {
       display: none;
